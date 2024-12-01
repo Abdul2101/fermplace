@@ -1,0 +1,7 @@
+Django==3.2.16  # Укажите версию Django, которая используется в проекте
+djangorestframework==3.14.0  # Django REST Framework
+drf-yasg==1.20.0  # Django Swagger
+djangorestframework-simplejwt==5.2.2  # SimpleJWT для аутентификации в DRF
+markdown==3.3.6  # для отображения документации через Swagger
+django-cors-headers==3.13.0  # для разрешения межпроцессного взаимодействия (CORS)
+python-dotenv==0.19.2  # Для загрузки переменных окружения из `.env`
